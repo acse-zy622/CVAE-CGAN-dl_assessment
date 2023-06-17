@@ -1,3 +1,4 @@
-# DL module Assessment 1
+# DL module Assessment 
 
-All instructions are contained in the notebook provided in the repo.
+1. CVAE-model in MinistFashion Dataset
+2. CGAN-model in MinistFashion Dataset
